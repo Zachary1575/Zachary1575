@@ -1,9 +1,4 @@
 Heyo! I’m Zachary Gou (@Zachary1575), pleasure to meet you!
-<br>
-<br>
-I recently purged alot of repositories that are not active. Sorry if I deleted something you may be looking for!
-<br>
-<br>
 
 Some of my Favorite Jokes:
 <br>
