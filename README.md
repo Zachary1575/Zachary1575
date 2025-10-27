@@ -18,8 +18,6 @@ Website -> <a>https://zacharygou.dev/</a>
 <img src="https://i.redd.it/51c2i8p9ovy31.png" width="500" />
 <img src="https://external-preview.redd.it/rnqp4a2ZbZskVkVpe21j-BamMMk9vvJ6cnjtjx36sb0.jpg?width=1080&crop=smart&auto=webp&s=7f266b958147dca0cd521b70f8cf7817c21a49dc" width="500" />
 <br>
-(*Sipser was the Bible for Automata Theory in my CS Theory Class)
-<br>
 <br>
 <br>
 <img src="https://i.redd.it/k0ozh7tg40751.jpg" width="500" />
