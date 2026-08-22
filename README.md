@@ -5,6 +5,7 @@ Website -> <a>https://zacharygou.dev/</a>
 [![Zachary's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zachary1575)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
+<!--
 **Some Funny Jokes:**
 <br>
 <br>
@@ -20,6 +21,7 @@ Website -> <a>https://zacharygou.dev/</a>
 <br>
 <img src="https://i.redd.it/k0ozh7tg40751.jpg" width="500" />
 <img src="https://files.speakerdeck.com/presentations/383a048655cc4b7fa71c7162cb3a6676/slide_34.jpg" width="500" />
+-->
 
 
 
