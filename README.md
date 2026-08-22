@@ -2,9 +2,6 @@ Heyo! I’m Zachary Gou (@Zachary1575), pleasure to meet you!
 
 Website -> <a>https://zacharygou.dev/</a>
 
-[![Zachary's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zachary1575)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-
 <!--
 **Some Funny Jokes:**
 <br>
