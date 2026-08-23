@@ -6,7 +6,7 @@ Software Engineer II at **Qlik Analytics** — backend infrastructure and databa
 - 🌱Learning: distributed storage engines, distributed KV caches, compression techniques, low-level systems, AI agent tooling & context engineering, Rust.
 - 📖Reading: `Database Internals` , `DDIA`, `Fermats Last Theorem`.
 - 🌿Off the keyboard: reading, home-labbing, hiking, and pickle ball.
-- Personal Website - Email - LinkedIn
+- [zacharygou.dev](https://zacharygou.dev/) - zachgfin@gmail.com - [LinkedIn](linkedin.com/in/zachary-gou)
 
 ### Tech I bash my head with consistently:
 
