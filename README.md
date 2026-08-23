@@ -1,6 +1,22 @@
-Heyo! I’m Zachary Gou (@Zachary1575), pleasure to meet you!
+# Heyo, I am Zachary!
 
-Website -> <a>https://zacharygou.dev/</a>
+Software Engineer II at **Qlik Analytics** — backend infrastructure and database driver integration on the data connectivity team. I have a knack for C#, .NET, C++, C, Typescript, Databases, Kubernetes.
+
+- 💻Currently: real-time distributed systems for *securely* integrating customer data into analytics and number-crunching engines.
+- 🌱Learning: distributed storage engines, distributed KV caches, compression techniques, low-level systems, AI agent tooling & context engineering, Rust.
+- 📖Reading: `Database Internals` , `DDIA`, `Fermats Last Theorem`.
+- 🌿Off the keyboard: reading, home-labbing, hiking, and pickle ball.
+- Personal Website - Email - LinkedIn
+
+### Tech I bash my head with consistently:
+
+`C#` `.NET` `C++` `C`  `Go` `TypeScript` `Solace` `Kubernetes` `Python` 
+
+### Database specific tech I work with:
+
+`ODBC` `JDBC` `ADBC` `PostgreSQL Plugins` `Simba Drivers` `Unix Driver Manager` `MySQL` `PostgreSQL` `MS SQL Server` `Google Big Query` `Oracle` `Snowflake` `Databricks` `Apache Drill` `Apache Impala` `Apache Hive` `Apache Spark` `PrestoDB` `Teradata` 
+
+_Feel free to reach out to say hi!!!_
 
 <!--
 **Some Funny Jokes:**
