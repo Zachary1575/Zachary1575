@@ -1,6 +1,6 @@
 # Heyo, I am Zachary!
 
-Software Engineer II at **Qlik Analytics** — backend infrastructure and database driver integration on the data connectivity team. I have a knack for C#, .NET, C++, C, Typescript, Databases, Kubernetes.
+Software Engineer II at **Qlik Analytics** — backend infrastructure and database driver integration on the data connectivity team. I have a knack for C#, .NET, C++, C, Typescript, Databases, Kubernetes, and more.
 
 - 💻Currently: real-time distributed systems for *securely* integrating customer data into analytics and number-crunching engines.
 - 🌱Learning: distributed storage engines, distributed KV caches, compression techniques, low-level systems, AI agent tooling & context engineering, Rust.
