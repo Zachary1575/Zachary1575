@@ -14,7 +14,7 @@ Software Engineer II at **Qlik Analytics** — backend infrastructure and databa
 
 ### Database specific tech I work with:
 
-`ODBC` `JDBC` `ADBC` `PostgreSQL Plugins` `Simba Drivers` `Unix Driver Manager` `MySQL` `PostgreSQL` `MS SQL Server` `Google Big Query` `Oracle` `Snowflake` `Databricks` `Apache Drill` `Apache Impala` `Apache Hive` `Apache Spark` `PrestoDB` `Teradata` 
+`ODBC` `JDBC` `ADBC` `Simba Drivers` `Unix Driver Manager` `MySQL` `PostgreSQL` `MS SQL Server` `Google Big Query` `Oracle` `Snowflake` `Databricks` `Apache Products (spark, drill, phoenix, etc.)` `PrestoDB` `Teradata` 
 
 _Feel free to reach out to say hi!!!_
 
